@@ -29,7 +29,7 @@ I am currently pursuing **B.Tech in Computer Science and Engineering** at **CGC 
 ## 📞 Contact & Social (Combined)
 **Email:** lakshmisah22@gmail.com  
 **Phone:** +91 7549143722  
-**Instagram:** https://www.instagram.com/divyansh_raj31?igsh=bjNnM3ZxZXJwazlk  
+**Instagram:** https://www.instagram.com/divyansh_raj31?igsh=bjNnM3ZxZXJwazlk 
 **LinkedIn:** https://www.linkedin.com/in/divyansh-raj-553373379  
 
 ---
