@@ -29,13 +29,13 @@ I am currently pursuing **B.Tech in Computer Science and Engineering** at **CGC 
 🏫 My University
 
 CGC University is known for its modern infrastructure and excellent academic environment.
-Official Website:
-🔗 (https://www.cgc.ac.in/)
+[Official Website:]
+🔗 [https://www.cgc.ac.in/]
 
 📞 Contact Me
 
 Email:
-📧(lakshmisah22@gmail.com)
+📧[lakshmisah22@gmail.com]
 
 Phone:
 📱 +91 7549143722
@@ -43,10 +43,10 @@ Phone:
 🔗 Social Profiles
 
 Instagram:
-🌐 (https://www.instagram.com/divyansh_raj31?igsh=bjNnM3ZxZXJwazlk)
+🌐 [https://www.instagram.com/divyansh_raj31?igsh=bjNnM3ZxZXJwazlk]
 
 LinkedIn:
-🌐 (https://www.linkedin.com/in/divyansh-raj-553373379)
+🌐 [https://www.linkedin.com/in/divyansh-raj-553373379]
 
 All links are verified and working.
 
