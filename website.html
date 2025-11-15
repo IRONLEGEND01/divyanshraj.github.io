@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Divyansh Raj | Personal Page</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Poppins', sans-serif;
+            background-color: #f9f9f9;
+            color: #333;
+            line-height: 1.6;
+            padding: 20px;
+        }
+        header {
+            background-color: #120719;
+            color: white;
+            text-align: center;
+            padding: 20px;
+            border-radius: 12px;
+        }
+        header img {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            margin-top: 10px;
+        }
+        section {
+            background-color: #e6e6ff;
+            margin-top: 20px;
+            padding: 20px;
+            border-radius: 10px;
+        }
+        h2 {
+            color: #4b0082;
+            margin-bottom: 10px;
+        }
+        .social-links {
+            display: flex;
+            gap: 15px;
+            margin-top: 10px;
+            align-items: center;
+        }
+        .social-links img {
+            width: 28px;
+            height: 28px;
+            vertical-align: middle;
+        }
+        a {
+            color: #4b0082;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        footer {
+            text-align: center;
+            background-color: #4b0082;
+            color: white;
+            padding: 10px;
+            border-radius: 10px;
+            margin-top: 20px;
+        }
+        img.responsive {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+            margin-top: 10px;
+        }
+        @media (max-width: 768px) {
+            body {
+                padding: 10px;
+            }
+            .social-links {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Hello, I'm Divyansh Raj</h1>
+        <h3>Student at CGC University, Mohali</h3>
+        <img src="photo/divyansh.png" alt="Divyansh Photo">
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>I'm a passionate student of <strong>Chandigarh Group of Colleges (CGC University, Mohali)</strong>, currently pursuing my B.Tech in Computer Science and Engineering. I love exploring web development, technology, and design.</p>
+    </section>
+
+    <section>
+        <h2>My University</h2>
+        <p>CGC University is one of the most reputed universities known for its modern infrastructure and world-class education. Here’s a glimpse of my campus:</p>
+        <img src="photo/cgc_university.png" alt="CGC University Campus" class="responsive">
+        <p>Visit official site: <a href="https://www.cgc.ac.in/" target="_blank">cgc.ac.in</a></p>
+    </section>
+
+    <section>
+        <h2>Contact Me</h2>
+        <p><strong>Email:</strong> <a href="mailto:lakshmisah22@gmail.com">lakshmisah22@gmail.com</a></p>
+        <p><strong>Phone:</strong> <a href="tel:+917549143722">+91 7549143722</a></p>
+
+        <div class="social-links">
+            <a href="https://www.instagram.com/divyansh_raj31?igsh=bjNnM3ZxZXJwazlk" target="_blank">
+                <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram"> Instagram
+            </a>
+            <a href="https://www.linkedin.com/in/divyansh-raj-553373379" target="_blank">
+                <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn"> LinkedIn
+            </a>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Divyansh Raj | CGC University Mohali</p>
+    </footer>
+</body>
+</html>
