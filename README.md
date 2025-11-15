@@ -1,16 +1,30 @@
-🌐 Divyansh Raj — Personal Webpage
+# 🌐 Personal Portfolio – Divyansh Raj
 
-This repository contains the complete source code for my personal webpage, featuring my introduction, university details, and contact information.
-The website is fully responsive and built using clean HTML & CSS.
+Welcome to my personal webpage project!  
+This webpage is built using **HTML** and **CSS**, showcasing my profile, education, university, and contact + social details in one place.  
+I am currently pursuing **B.Tech in Computer Science and Engineering** at **CGC University, Mohali**.
 
+---
 
-📌 About the Website 
-this is my html webpage 
-👨‍🎓 About Me
+## 👤 Profile Photo
+<img src="photo/divyansh.png" alt="Divyansh Raj" width="250">
 
-I am Divyansh Raj, a B.Tech CSE student at
-Chandigarh Group of Colleges (CGC University, Mohali).
-I enjoy exploring web development, technology, and UI design.
+---
+
+## 🏫 CGC University Mohali
+<img src="photo/cgc_university.png" alt="CGC University Mohali" width="600">
+
+---
+
+## 📌 About This Project
+- Personal introduction  
+- University details with campus image  
+- Contact + Social section combined  
+- Fully responsive clean UI  
+- Simple HTML & CSS structure  
+
+---
+
 
 🏫 My University
 
