@@ -34,18 +34,6 @@ I am currently pursuing **B.Tech in Computer Science and Engineering** at **CGC 
 
 ---
 
-## 🚀 How to Run
-1. Keep images inside the **photo/** folder  
-2. Open **website.html** in browser  
-3. Your portfolio loads instantly  
-
----
-
-## 🛠️ Technologies Used
-- HTML5  
-- CSS3  
-- Media Queries  
-
 ---
 
 ## © Copyright
